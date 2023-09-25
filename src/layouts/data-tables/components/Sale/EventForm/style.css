@@ -1,0 +1,31 @@
+.date_picker {
+    width: 100%;
+}
+.date_picker div {
+    display: flex;
+    justify-content: space-between;
+}
+.date_picker .MuiInputBase-formControl {
+    background-color: #0f1535!important;
+    color: #fff !important;
+    border-radius: 15px !important;
+}
+.date_picker input::placeholder {
+   color: #fff !important;
+} 
+.date_picker input {
+    -webkit-text-fill-color: #fff !important;
+}
+
+.date_picker button {
+    color: #fff;
+}
+.tables_dialog {
+    background-color: #0f1535;
+}
+.error_alert {
+    font-size: 13px !important;
+    height: 37px;
+    padding-top: 0 !important;
+    padding-bottom: 0!important 
+}

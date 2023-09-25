@@ -1,0 +1,9 @@
+/* Your News Component CSS */
+.news-container {
+    /* Add your styles for the news container */
+    padding: 16px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(241, 238, 238, 0.1);
+  }
+  

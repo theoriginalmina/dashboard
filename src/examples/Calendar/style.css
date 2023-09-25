@@ -1,0 +1,6 @@
+.event_menu {
+    position: absolute;
+    background-color: black;
+    top: 50%;
+    z-index: 9999;
+}

@@ -1,0 +1,15 @@
+{
+  "short_name": "Imperial Alpha Dashboard",
+  "name": "Imperial Dashboard React",
+  "icons": [
+    {
+      "src": "https://cdn.discordapp.com/attachments/1024209438506225684/1031092545872207872/Inspired_Alpha_Logo_Transparent.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#17c1e8",
+  "background_color": "#ffffff"
+}
